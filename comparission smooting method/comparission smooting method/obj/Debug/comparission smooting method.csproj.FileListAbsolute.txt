@@ -1,0 +1,9 @@
+F:\Project\Programs\C#\comparission smooting method\comparission smooting method\bin\Debug\comparission smooting method.exe.config
+F:\Project\Programs\C#\comparission smooting method\comparission smooting method\bin\Debug\comparission smooting method.exe
+F:\Project\Programs\C#\comparission smooting method\comparission smooting method\bin\Debug\comparission smooting method.pdb
+F:\Project\Programs\C#\comparission smooting method\comparission smooting method\obj\Debug\comparission smooting method.csprojResolveAssemblyReference.cache
+F:\Project\Programs\C#\comparission smooting method\comparission smooting method\obj\Debug\comparission_smooting_method.Form1.resources
+F:\Project\Programs\C#\comparission smooting method\comparission smooting method\obj\Debug\comparission_smooting_method.Properties.Resources.resources
+F:\Project\Programs\C#\comparission smooting method\comparission smooting method\obj\Debug\comparission smooting method.csproj.GenerateResource.Cache
+F:\Project\Programs\C#\comparission smooting method\comparission smooting method\obj\Debug\comparission smooting method.exe
+F:\Project\Programs\C#\comparission smooting method\comparission smooting method\obj\Debug\comparission smooting method.pdb
